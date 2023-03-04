@@ -32,4 +32,28 @@
     "@types/passport-local": "^1.0.35",
     "@types/passport-local-mongoose": "^6.1.1"
   }
+
+  ,
+  "engines": {
+    "node": "^10.15.0",
+    "npm": "^6.0.0"
+  },
+  "description": "## Welcome to the MidTerm Project - the Favourite Book List App",
+  "main": "server.js",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Theepanguna/midtermtest"
+  },
+  "keywords": [
+    "NodeJS",
+    "ExpressJS",
+    "EJS"
+  ],
+  "author": "Pratheepan",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "http://midterm-pratheepan-comp229.us-east-2.elasticbeanstalk.com"
 }
