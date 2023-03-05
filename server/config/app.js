@@ -1,6 +1,7 @@
 /*-- config/app.js
    Pratheepan Gunaratnam
    Student id :- 301320478
+   Favourite Book List
    5-03-23
 
 */
